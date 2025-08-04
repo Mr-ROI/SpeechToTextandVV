@@ -1,0 +1,7 @@
+text to speech  -done
+speech to text - done
+llm integration  - todo
+agents integration - todo
+reading audio files - kinda theory, to study and know how to do
+in mobile integration - didn't reach it yet
+voice recogination - not yet done
