@@ -5,3 +5,5 @@ agents integration - todo
 reading audio files - kinda theory, to study and know how to do
 in mobile integration - didn't reach it yet
 voice recogination - not yet done
+try to do the voice recogination through deep learning by your own voice - try the things you learned
+maybe a website since i am learning webdev maybe
