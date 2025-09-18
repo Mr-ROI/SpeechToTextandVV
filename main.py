@@ -2,7 +2,7 @@ import speech_recognition as sr
 import pyaudio as pya
 
 
-def main():
+def repeater():
     
     r  =  sr.Recognizer()
 
@@ -18,4 +18,4 @@ def main():
          print("Sorry, I did not get that")
 
 if __name__ == "__main__":
-    main()
+    repeater()
