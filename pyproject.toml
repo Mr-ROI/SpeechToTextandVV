@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pyaudio>=0.2.14",
+    "pyautogui>=0.9.54",
     "pyttsx3>=2.99",
     "speechrecognition>=3.14.3",
+    "tensorflow>=2.20.0",
 ]
